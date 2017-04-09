@@ -1,0 +1,67 @@
+body {
+	background-image: url("http://cdn.wallpapersafari.com/43/41/hRzQkD.jpg");
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size: cover;
+}
+#menu_icon {
+	display:inline-block;
+	height: 9em;
+	width: 9em;
+}
+#menu {
+	position: fixed;
+	z-index: none;
+		display:inline-block;
+	background-color: rgba(0, 0, 0, 0.56);
+	height: 100%;
+	width: 15%;
+	text-align: center;
+}
+.menu_text {
+margin-top: 2em;
+font-size: 2em;
+color: white;
+font-family: Impact, Charcoal, sans-serif;
+}
+#header {
+	text-align: center;
+font-size: 3em;
+color: white;
+font-family: Impact, Charcoal, sans-serif;
+}
+.instagram {
+	height: 30em;
+	width: 30em;
+}
+#right {
+		float: right;
+	display: inline-block;
+	width: 85%;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+a {
+	text-decoration: none;
+}
+#active {
+		background-color: rgba(0, 0, 0, 0.4);
+		padding-top: 1em;
+		padding-bottom: 1em;
+}
+.about_header {
+	text-align: center;
+	font-size: 2em;
+	padding: 0.5em;
+	font-family: Charcoal, sans-serif, Impact;
+	color: white;
+	background-color:rgba(0, 0, 0, 0.3);
+}
+#israjokes {
+	font-family: Charcoal, sans-serif, Impact;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+.dailyvid {
+padding: 1em;
+border: 0.5em dashed black;
